@@ -1,5 +1,5 @@
-import Component from "../../glb-loader"
+import Component from "../..glb-loader"
 
 export default function Page() {
-  return <Component />
+  <Component />
 }
