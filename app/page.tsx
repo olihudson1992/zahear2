@@ -1,5 +1,8 @@
-import Component from "./glb-loader"
-
 export default function Page() {
-  return <Component />
+  return (
+    <div>
+      <h1>Hello World!</h1>
+      <p>This is a test page</p>
+    </div>
+  )
 }
